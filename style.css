@@ -1,0 +1,87 @@
+body {
+    background-color: white;
+    max-width: 600px;
+    margin:auto;
+    
+    
+    
+
+}
+
+.itens  {
+    column-count:2;
+}
+
+
+
+header .navbar {
+    color:rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+    text-align: right;
+   
+}
+
+.navbar a { 
+    color:black
+}
+
+
+
+.botao {
+    background:#34cc01;
+    color:whitesmoke;
+    margin-bottom: 30px;
+    
+
+}
+
+.botao-oferta {
+    background:#34cc01;
+    color:whitesmoke;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+.vermaisoferta{
+    background:yellow;
+    margin:auto;
+    column-count:2;
+    width: 650px;;
+}    
+
+.amarelo {
+    background: yellow;
+    height: 25px;
+    width: 650px;
+    
+    
+   
+}
+
+
+.regulamento{
+    text-align:left;
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+
+}
+
+.redessociais {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;    
+    
+
+}    
+
+.textmidia{
+    text-align: center;
+
+
+}
